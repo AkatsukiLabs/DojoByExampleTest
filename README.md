@@ -2,7 +2,7 @@
   <img src="client/public/svg/Vertical_Dark.svg" alt="Dojo by Example Logo" width="600">
 </p>
 
-## 👾 Introduction
+## 👾 Introduction.
 
 Dojo Engine is an innovative framework for creating fully on-chain games and provable applications within the Starknet ecosystem. However, due to the novelty of this technology, there are currently few practical examples and clear documentation on how to implement the various components of Dojo in a production environment.
 
