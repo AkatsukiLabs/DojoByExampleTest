@@ -82,6 +82,10 @@ const sidebarConfig: SidebarItem[] = [
             text: 'Components',
             link: '/guides/react/components',
           },
+          {
+            text: 'Torii Client Integration',
+            link: '/deployment/torii/client-integration',
+          },
         ],
       },
       {
@@ -122,6 +126,44 @@ const sidebarConfig: SidebarItem[] = [
       {
         text: 'Slot',
         link: '/deployment/slot',
+      },
+      {
+        text: 'Torii Integration',
+        items: [
+          {
+            text: 'Client Integration',
+            link: '/deployment/torii/client-integration',
+          },
+          {
+            text: 'Guides',
+            items: [
+              {
+                text: 'Setup & Configuration',
+                link: '/deployment/torii/guides/setup',
+              },
+              {
+                text: 'GraphQL Queries',
+                link: '/deployment/torii/guides/graphql-queries',
+              },
+              {
+                text: 'Custom Hooks',
+                link: '/deployment/torii/guides/custom-hooks',
+              },
+              {
+                text: 'Data Conversion',
+                link: '/deployment/torii/guides/data-conversion',
+              },
+              {
+                text: 'Error Handling',
+                link: '/deployment/torii/guides/error-handling',
+              },
+              {
+                text: 'Performance',
+                link: '/deployment/torii/guides/performance',
+              },
+            ],
+          },
+        ],
       },
     ],
   },
