@@ -123,6 +123,20 @@ const sidebarConfig: SidebarItem[] = [
         text: 'Slot',
         link: '/deployment/slot',
       },
+      {
+        text: 'Torii Indexer',
+        collapsed: true,
+        items: [
+          {
+            text: 'Overview',
+            link: '/deployment/torii/overview',
+          },
+          {
+            text: 'Client Integration',
+            link: '/deployment/torii/client-integration',
+          },
+        ],
+      },
     ],
   },
   {
