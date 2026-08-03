@@ -14,6 +14,10 @@ Each phase will be a separate commit with clear, descriptive messages following 
 git checkout -b feat/client-migration-vocs
 ```
 
+
+# ONLYDUST
+
+
 ### Phase 2: Setup Fresh Vocs Project
 **Commit**: `feat: initialize new vocs project with modern stack`
 ```bash
